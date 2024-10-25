@@ -1,0 +1,16 @@
+.about {
+    padding: 50px;
+    background-color: #f0f8ff;
+    text-align: center;
+  }
+  
+  .about h1 {
+    font-size: 36px;
+    color: #004d99;
+  }
+  
+  .about p {
+    font-size: 20px;
+    color: #333;
+  }
+  
